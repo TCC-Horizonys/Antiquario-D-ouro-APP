@@ -17,7 +17,7 @@ class ProdutosPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFF8F2E6), 
+      backgroundColor: const Color(0xFFF8F2E6),
       body: SafeArea(
         child: SingleChildScrollView(
           child: Column(
@@ -55,7 +55,7 @@ class ProdutosPage extends StatelessWidget {
                     imagePath,
                     fit: BoxFit.contain,
                     width: double.infinity,
-                    height: 380, 
+                    height: 380,
                   ),
                 ),
               ),
@@ -106,22 +106,22 @@ class ProdutosPage extends StatelessWidget {
 
                     const SizedBox(height: 20),
 
-                    // PREÇO
+                    // ⭐ BOTÃO SOMENTE VISUAL (SEM AÇÃO)
                     Container(
                       padding: const EdgeInsets.symmetric(
-                        vertical: 10,
-                        horizontal: 20,
+                        vertical: 12,
+                        horizontal: 24,
                       ),
                       decoration: BoxDecoration(
                         color: const Color(0xFFB28A67),
                         borderRadius: BorderRadius.circular(10),
                       ),
-                      child: Text(
-                        preco ?? 'Consulte o valor',
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontWeight: FontWeight.w600,
+                      child: const Text(
+                        "Acessar e-commerce",
+                        style: TextStyle(
                           fontSize: 16,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.white,
                         ),
                       ),
                     ),
