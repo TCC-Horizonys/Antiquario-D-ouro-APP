@@ -8,7 +8,7 @@
 [https://github.com/EricOliveiraSampaio/Ecotuba/wiki](https://github.com/TCC-Horizonys/Antiquario-D-ouro-APP/wiki)
 
 <h3>Descrição dos widgets</h3>
-[https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Descri%C3%A7%C3%A3o-dos-widgets](https://github.com/TCC-Horizonys/Antiquario-D-ouro-APP/wiki/Descrição-dos-widgets)
+https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Descri%C3%A7%C3%A3o-dos-widgets](https://github.com/TCC-Horizonys/Antiquario-D-ouro-APP/wiki/Descrição-dos-widgets)
 
 <h3>Imagens da Tela</h3>
-[https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Imagens-da-tela](https://github.com/TCC-Horizonys/Antiquario-D-ouro-APP/wiki/Imagens-da-tela)
+https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Imagens-da-tela](https://github.com/TCC-Horizonys/Antiquario-D-ouro-APP/wiki/Imagens-da-tela)
